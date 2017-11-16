@@ -10,3 +10,5 @@ git is free software
 第二步，使用命令git commit，完成。
 
 git is free software distribution under the gpl
+
+git has a mutable index called stage
